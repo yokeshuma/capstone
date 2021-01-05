@@ -1,0 +1,26 @@
+body{
+    /* margin-left: 20rem;
+    margin-right: 20rem; */
+    text-align: center;
+    color: white;
+    background-color: #0d1e3d;
+    font-family: 'Comfortaa', cursive;
+    border:50px solid rgb(11, 245, 147);
+    border-top: 0px;
+    margin:0px;
+}
+div{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+#rad{
+    height: 3rem;
+    width: 7rem;
+    font-size: 1.1rem;
+    background-color: yellow;
+    border-radius: 20px;
+}
+input{
+    height: 1.2rem;
+    width: 12rem;
+}
